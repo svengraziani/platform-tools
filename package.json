@@ -1,5 +1,26 @@
 {
   "name": "@anexia/platform-tools",
+  "description": "Provides Ionic Framework way class mapping of current platform and orientation on the root document node ´html´ for usage inside scss or :host-context selecting.",
+  "author": {
+    "email": "sgraziani@anexia-it.com",
+    "name": "Sven Graziani"
+  },
+  "keywords": [
+    "scss",
+    "angular",
+    "css",
+    "util",
+    "tool",
+    "screen-orientation",
+    "anexia",
+    "platform"
+  ],
+  "repository": {
+    "url": "https://github.com/svengraziani/platform-tools",
+    "type": "git"
+  },
+  "license": "MIT",
+  "private": false,
   "version": "12.0.0",
   "peerDependencies": {
     "@angular/common": "^12.2.0",
